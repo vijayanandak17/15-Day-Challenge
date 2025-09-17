@@ -22,7 +22,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- Tamil Film Quiz Questions (Only 4) ---
+# --- Tamil Film Quiz Questions (Only 4) ----
 questions = [
     {
         "question": "Who is known as 'Ulaganayagan' in Tamil cinema?",
